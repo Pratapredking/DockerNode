@@ -6,7 +6,7 @@ Docker Node.js app
 
 Build the Dockerfile image
 
-docker build -t shykes/myapp .
+* docker build -t shykes/myapp .
 
 If image is present, Docker run command
 
