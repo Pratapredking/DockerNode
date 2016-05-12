@@ -11,3 +11,5 @@ Build the Dockerfile image
 If image is present, Docker run command
 
 sudo docker run -p 8000:8080 shykes/myapp
+
+`<addr>` 
